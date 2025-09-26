@@ -3,8 +3,10 @@ This program simulates a vending machine that holds various types of chilled bev
 will receive a drink if they provide enough money, and it maintains an internal report of inventory/total sales.
 
 Features
--Displays menu of available drinks with prices
--Accepts and validates user input for money
--Handles cases of insufficent funds of insufficient inventory
--Tracks remaining inventory
--Prints an inventory report after user leaves program
+*Displays menu of available drinks with prices
+*Accepts and validates user input for money
+*Handles cases of insufficent funds of insufficient inventory
+*Tracks remaining inventory
+*Prints an inventory report after user leaves program
+
+

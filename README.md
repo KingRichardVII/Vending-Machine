@@ -1,3 +1,10 @@
- This program simulates a vending machine that holds various drinks. The User is able to select what type of drink they would like,
- as well as how much money is inserted into the machine. Input validation for this program does not deliver a drink to the user 
- if the money inserted is less than the price of selected drink.
+Objective:
+This program simulates a vending machine that holds various types of chilled beverages. Users can view available drink options and purchase drinks. Input validation for this program ensures users 
+will receive a drink if they provide enough money, and it maintains an internal report of inventory/total sales.
+
+Features
+-Displays menu of available drinks with prices
+-Accepts and validates user input for money
+-Handles cases of insufficent funds of insufficient inventory
+-Tracks remaining inventory
+-Prints an inventory report after user leaves program

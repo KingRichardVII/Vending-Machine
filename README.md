@@ -8,5 +8,3 @@ Features
 *Handles cases of insufficent funds of insufficient inventory
 *Tracks remaining inventory
 *Prints an inventory report after user leaves program
-
-
